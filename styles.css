@@ -22,6 +22,7 @@ body{
 
 .calculator-screen{
     width:100%;
+    overflow: hidden;
     font-size:30px;
     text-align:right;
     font-family: 'Obitron',sans-serif;
